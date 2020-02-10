@@ -1,2 +1,2 @@
 # raspberrypi_install_doom
-install script
+Doom 3 install script for Raspbian Buster
