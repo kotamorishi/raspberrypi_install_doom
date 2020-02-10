@@ -1,7 +1,7 @@
 # raspberrypi_install_doom
 Doom 3 install script for Raspbian Buster
 
-# How to run
+# How to run / このスクリプトの実行方法
 ~~~bash
 bash <(curl -s https://raw.githubusercontent.com/kotamorishi/raspberrypi_install_doom/master/install_doom.sh)
 ~~~
