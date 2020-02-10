@@ -10,4 +10,4 @@ unzip shareware_doom_iwad.zip
 make
 sudo make install
 
-echo 'chocolate-doom -iwad DOOM1.WAD'
+echo 'how to run : chocolate-doom -iwad DOOM1.WAD'
